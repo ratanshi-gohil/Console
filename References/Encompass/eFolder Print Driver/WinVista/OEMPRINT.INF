@@ -1,0 +1,80 @@
+;
+;       Printer Installation File
+;
+;        List of supported printers, manufacturers
+;
+
+[Version]
+Signature="$Windows NT$"
+Provider=%MS%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+DriverVer=02/06/2002,1.0.0.0
+
+;
+; Manufacturer section.
+;
+; This section lists all of the manufacturers
+; that we will display in the Dialog box
+;
+
+[Manufacturer]
+"Ellie Mae"
+
+;
+; Model Specifications Section
+;
+
+[Ellie Mae]
+"Ellie Mae Print Output" = hplj6l.GPD
+;
+; Installer section(s) referenced above.
+;
+
+[hplj6l.GPD]
+;The filenames below that are preceeded by an '@' are actual files and are copy files sections (below) other wise
+CopyFiles=GEN_PRINT_DRIVER_FILES,GEN_PRINT_PROCESSOR_FILES
+DataSection=UNIDRV_BIDI_DATA
+Include=NTPRINT.INF
+Needs=TTFSUB.OEM,UNIDRV_BIDI.OEM
+PrintProcessor=GenPrintProcessor,G2KPProc.DLL
+
+[GEN_PRINT_DRIVER_FILES]
+;unidrv.dll,,,0x00000020         ; Copy only if new binary
+;unidrvui.dll,,,0x00000020         ; Copy only if new binary
+;unires.dll,,,0x00000020         ; Copy only if new binary
+pcl5eres.dll,,,
+hplj6l.GPD,,,
+hplj6l.bud,,,
+;stdnames.gpd,,,0x00000020         ; Copy only if new binary
+;ttfsub.gpd,,,0x00000020         ; Copy only if new binary
+
+[GEN_PRINT_PROCESSOR_FILES]
+G2KPProc.DLL,,,
+
+;[MY_UNIDRV_DATA]
+;DataFile=HPLJ6L.GPD
+;DriverFile=UNIDRV.DLL
+;ConfigFile=UNIDRVUI.DLL
+;HelpFile=UNIDRV.HLP
+;PrintProcessor=G2KPProc.DLL
+
+[DestinationDirs]
+;66000 = The printer drivers directory
+;66001 = The print processors directory
+DefaultDestDir=66000
+GEN_PRINT_PROCESSOR_FILES=66001
+GEN_PRINT_DRIVER_FILES=66000
+
+[SourceDisksNames.x86]
+1 = %disk1%,,,
+
+;[SourceDisksFiles]
+;pcl5eres.dll = 1
+;hplj6.GPD = 1
+;ttfsub.gpd = 1
+
+[Strings]
+PrinterClassName="Printers"
+MS=Ellie Mae
+disk1="Ellie Mae Driver Setup Disk"

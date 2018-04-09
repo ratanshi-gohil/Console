@@ -1,0 +1,123 @@
+<Mappings>
+  <Mapping StateCode="PR" Zipcode="SAN SEBASTIAN" CountyLimit="SAN SABASTIAN"/>
+	<Mapping StateCode="VI" Zipcode="SAINT THOMAS" CountyLimit="ST. THOMAS ISLA"/>
+	<Mapping StateCode="VI" Zipcode="SAINT CROIX" CountyLimit="ST. CROIX ISLAN"/>
+	<Mapping StateCode="VI" Zipcode="SAINT JOHN" CountyLimit="ST. JOHN ISLAND"/>
+	<Mapping StateCode="NY" Zipcode="SAINT LAWRENCE" CountyLimit="ST. LAWRENCE"/>
+	<Mapping StateCode="DC" Zipcode="DISTRICT OF COLUMBIA" CountyLimit="DISTRICT OF COL"/>
+	<Mapping StateCode="VA" Zipcode="MANASSAS CITY" CountyLimit="MANASSAS"/>
+	<Mapping StateCode="VA" Zipcode="MANASSAS PARK CITY" CountyLimit="MANASSAS PARK C"/>
+	<Mapping StateCode="MD" Zipcode="SAINT MARYS" CountyLimit="ST. MARY'S"/>
+	<Mapping StateCode="MD" Zipcode="PRINCE GEORGES" CountyLimit="PRINCE GEORGE'S"/>
+	<Mapping StateCode="MD" Zipcode="QUEEN ANNES" CountyLimit="QUEEN ANNE'S"/>
+	<Mapping StateCode="VA" Zipcode="FAIRFAX CITY" CountyLimit="FAIRFAX IND"/>
+	<Mapping StateCode="VA" Zipcode="FAIRFAX" CountyLimit="FAIRFAX"/>
+	<Mapping StateCode="VA" Zipcode="FALLS CHURCH CITY" CountyLimit="FALLS CHURCH CI"/>
+	<Mapping StateCode="VA" Zipcode="ALEXANDRIA CITY" CountyLimit="ALEXANDRIA"/>
+	<Mapping StateCode="VA" Zipcode="FREDERICKSBURG CITY" CountyLimit="FREDERICKSBURG"/>
+	<Mapping StateCode="VA" Zipcode="WINCHESTER CITY" CountyLimit="WINCHESTER"/>
+	<Mapping StateCode="VA" Zipcode="HARRISONBURG CITY" CountyLimit="Harrisonburg CI"/>
+	<Mapping StateCode="VA" Zipcode="CHARLOTTESVILLE CITY" CountyLimit="CHARLOTTESVILLE"/>
+	<Mapping StateCode="VA" Zipcode="WAYNESBORO CITY" CountyLimit="WAYNESBORO"/>
+	<Mapping StateCode="VA" Zipcode="RICHMOND CITY" CountyLimit="RICHMOND IND"/>
+	<Mapping StateCode="VA" Zipcode="RICHMOND" CountyLimit="RICHMOND"/>
+	<Mapping StateCode="VA" Zipcode="WILLIAMSBURG CITY" CountyLimit="WILLIAMSBURG"/>
+	<Mapping StateCode="VA" Zipcode="CHESAPEAKE CITY" CountyLimit="CHESAPEAKE"/>
+	<Mapping StateCode="VA" Zipcode="SUFFOLK CITY" CountyLimit="SUFFOLK"/>
+	<Mapping StateCode="VA" Zipcode="VIRGINIA BEACH CITY" CountyLimit="VIRGINIA BEACH"/>
+	<Mapping StateCode="VA" Zipcode="NORFOLK CITY" CountyLimit="NORFOLK"/>
+	<Mapping StateCode="VA" Zipcode="NEWPORT NEWS CITY" CountyLimit="NEWPORT NEWS CI"/>
+	<Mapping StateCode="VA" Zipcode="HAMPTON CITY" CountyLimit="HAMPTON"/>
+	<Mapping StateCode="VA" Zipcode="POQUOSON CITY" CountyLimit="POQUOSON"/>
+	<Mapping StateCode="VA" Zipcode="PORTSMOUTH CITY" CountyLimit="PORTSMOUTH"/>
+	<Mapping StateCode="VA" Zipcode="PETERSBURG CITY" CountyLimit="PETERSBURG"/>
+	<Mapping StateCode="VA" Zipcode="COLONIAL HEIGHTS CIT" CountyLimit="COLONIAL HEIGHT"/>
+	<Mapping StateCode="VA" Zipcode="FRANKLIN CITY" CountyLimit="FRANKLIN IND"/>
+	<Mapping StateCode="VA" Zipcode="FRANKLIN" CountyLimit="FRANKLIN"/>
+	<Mapping StateCode="VA" Zipcode="HOPEWELL CITY" CountyLimit="HOPEWELL"/>
+	<Mapping StateCode="VA" Zipcode="ROANOKE CITY" CountyLimit="ROANOKE IND"/>
+	<Mapping StateCode="VA" Zipcode="ROANOKE" CountyLimit="ROANOKE"/>
+	<Mapping StateCode="VA" Zipcode="MARTINSVILLE CITY" CountyLimit="MARTINSVILLE CI"/>
+	<Mapping StateCode="VA" Zipcode="NORTON CITY" CountyLimit="NORTON"/>
+	<Mapping StateCode="VA" Zipcode="STAUNTON CITY" CountyLimit="STAUNTON"/>
+	<Mapping StateCode="VA" Zipcode="BUENA VISTA CITY" CountyLimit="BUENA VISTA CIT"/>
+	<Mapping StateCode="VA" Zipcode="COVINGTON CITY" CountyLimit="COVINGTON"/>
+	<Mapping StateCode="VA" Zipcode="LYNCHBURG CITY" CountyLimit="LYNCHBURG"/>
+	<Mapping StateCode="VA" Zipcode="DANVILLE CITY" CountyLimit="DANVILLE"/>
+	<Mapping StateCode="FL" Zipcode="SAINT JOHNS" CountyLimit="ST. JOHNS"/>
+	<Mapping StateCode="FL" Zipcode="SAINT LUCIE" CountyLimit="ST. LUCIE"/>
+	<Mapping StateCode="AL" Zipcode="SAINT CLAIR" CountyLimit="ST. CLAIR"/>
+	<Mapping StateCode="IN" Zipcode="ST JOSEPH" CountyLimit="ST. JOSEPH"/>
+	<Mapping StateCode="MI" Zipcode="SAINT CLAIR" CountyLimit="ST. CLAIR"/>
+	<Mapping StateCode="MI" Zipcode="SAINT JOSEPH" CountyLimit="ST. JOSEPH"/>
+	<Mapping StateCode="IA" Zipcode="OBRIEN" CountyLimit="O'BRIEN"/>
+	<Mapping StateCode="WI" Zipcode="SAINT CROIX" CountyLimit="ST. CROIX"/>
+	<Mapping StateCode="MN" Zipcode="SAINT LOUIS" CountyLimit="ST. LOUIS"/>
+	<Mapping StateCode="MN" Zipcode="LAKE OF THE WOODS" CountyLimit="LAKE OF THE WOO"/>
+	<!--<Mapping StateCode="ND" Zipcode="LAMOURE" CountyLimit="LA MOURE"/>-->
+	<Mapping StateCode="IL" Zipcode="DEWITT" CountyLimit="DE WITT"/>
+	<Mapping StateCode="IL" Zipcode="SAINT CLAIR" CountyLimit="ST. CLAIR"/>
+	<Mapping StateCode="MO" Zipcode="SAINT LOUIS" CountyLimit="ST. LOUIS"/>
+	<Mapping StateCode="MO" Zipcode="SAINT LOUIS CITY" CountyLimit="ST. LOUIS CITY"/>
+	<Mapping StateCode="MO" Zipcode="SAINT FRANCOIS" CountyLimit="ST. FRANCOIS"/>
+	<Mapping StateCode="MO" Zipcode="SAINT LOUIS CITY" CountyLimit="ST. LOUIS"/>
+	<Mapping StateCode="MO" Zipcode="SAINT CHARLES" CountyLimit="ST. CHARLES"/>
+	<Mapping StateCode="MO" Zipcode="SAINTE GENEVIEVE" CountyLimit="STE. GENEVIEVE"/>
+	<!--<Mapping StateCode="MO" Zipcode="DEKALB" CountyLimit="DE KALB"/>-->
+	<Mapping StateCode="MO" Zipcode="SAINT CLAIR" CountyLimit="ST. CLAIR"/>
+	<Mapping StateCode="LA" Zipcode="SAINT CHARLES" CountyLimit="ST. CHARLES"/>
+	<Mapping StateCode="LA" Zipcode="SAINT BERNARD" CountyLimit="ST. BERNARD"/>
+	<Mapping StateCode="LA" Zipcode="ST JOHN THE BAPTIST" CountyLimit="ST. JOHN THE BA"/>
+	<Mapping StateCode="LA" Zipcode="SAINT JAMES" CountyLimit="ST. JAMES"/>
+	<Mapping StateCode="LA" Zipcode="SAINT MARY" CountyLimit="ST. MARY"/>
+	<Mapping StateCode="LA" Zipcode="SAINT TAMMANY" CountyLimit="ST. TAMMANY"/>
+	<Mapping StateCode="LA" Zipcode="SAINT HELENA" CountyLimit="ST. HELENA"/>
+	<Mapping StateCode="LA" Zipcode="SAINT LANDRY" CountyLimit="ST. LANDRY"/>
+	<Mapping StateCode="LA" Zipcode="SAINT MARTIN" CountyLimit="ST. MARTIN"/>
+	<Mapping StateCode="LA" Zipcode="EAST BATON ROUGE" CountyLimit="EAST BATON ROUG"/>
+	<Mapping StateCode="LA" Zipcode="WEST BATON ROUGE" CountyLimit="WEST BATON ROUG"/>
+	<Mapping StateCode="AR" Zipcode="SAINT FRANCIS" CountyLimit="ST. FRANCIS"/>
+	<!--<Mapping StateCode="AS" Zipcode="AMERICAN SAMOA" CountyLimit=""/>
+	<Mapping StateCode="PW" Zipcode="PALAU" CountyLimit=""/>
+	<Mapping StateCode="FM" Zipcode="FEDERATED STATES OF" CountyLimit=""/>
+	<Mapping StateCode="MP" Zipcode="NORTHERN MARIANA ISL" CountyLimit=""/>
+	<Mapping StateCode="MH" Zipcode="MARSHALL ISLANDS" CountyLimit=""/>-->
+	<Mapping StateCode="AK" Zipcode="ALEUTIANS EAST" CountyLimit="ALEUTIANS EAST"/> 
+	<Mapping StateCode="AK" Zipcode="ALEUTIANS WEST" CountyLimit="ALEUTIANS WEST"/> 
+	<Mapping StateCode="AK" Zipcode="LAKE AND PENINSULA" CountyLimit="LAKE AND PENINSULA"/>
+	<Mapping StateCode="AK" Zipcode="LAKE AND PENINSULA" CountyLimit="LAKE AND PENINS"/>
+	<Mapping StateCode="AK" Zipcode="YUKON KOYUKUK" CountyLimit="YUKON-KOYUKUK"/>
+	<Mapping StateCode="AK" Zipcode="VALDEZ CORDOVA" CountyLimit="VALDEZ-CORDOVA"/>
+	<Mapping StateCode="AK" Zipcode="MATANUSKA SUSITNA" CountyLimit="MATANUSKA-SUSIT"/>
+	<Mapping StateCode="AK" Zipcode="YAKUTAT" CountyLimit="YAKUTAT CITY"/>
+	<Mapping StateCode="AK" Zipcode="FAIRBANKS NORTH STAR" CountyLimit="FAIRBANKS NORTH"/>
+	<Mapping StateCode="AK" Zipcode="NORTHWEST ARCTIC" CountyLimit="NORTHWEST ARCTI"/>
+	<Mapping StateCode="AK" Zipcode="SOUTHEAST FAIRBANKS" CountyLimit="SOUTHEAST FAIRB"/>
+	<Mapping StateCode="AK" Zipcode="SKAGWAY" CountyLimit="SKAGWAY"/>	
+	<Mapping StateCode="AK" Zipcode="SKAGWAY" CountyLimit="SKAGWAY MUNICIP"/>
+	<Mapping StateCode="AK" Zipcode="SKAGWAY" CountyLimit="SKAGWAY-HOONAH"/>
+	<Mapping StateCode="AK" Zipcode="WRANGELL" CountyLimit="WRANGELL CITY A"/>	
+	<Mapping StateCode="AK" Zipcode="WRANGELL" CountyLimit="WRANGELL CITY"/>	
+	<Mapping StateCode="AK" Zipcode="WRANGELL" CountyLimit="WRANGELL-PETERS"/>
+	<Mapping StateCode="AK" Zipcode="KETCHIKAN GATEWAY" CountyLimit="KETCHIKAN GATEWAY"/>
+	<Mapping StateCode="AK" Zipcode="KETCHIKAN GATEWAY" CountyLimit="KETCHIKAN GATEW"/>
+	<Mapping StateCode="AK" Zipcode="Prince of Wales Hype" CountyLimit="PRINCE OF WALES"/>
+  	<Mapping StateCode="AK" Zipcode="ANCHORAGE" CountyLimit="ANCHORAGE"/>
+  	<Mapping StateCode="AK" Zipcode="JUNEAU" CountyLimit="JUNEAU"/>
+  	<Mapping StateCode="AK" Zipcode="KODIAK ISLAND" CountyLimit="KODIAK ISLAND"/>
+  	<Mapping StateCode="AK" Zipcode="BETHEL" CountyLimit="BETHEL"/>
+	<Mapping StateCode="AK" Zipcode="DENALI" CountyLimit="DENALI"/>
+	<Mapping StateCode="AK" Zipcode="WADE HAMPTON" CountyLimit="WADE HAMPTON"/>
+	<Mapping StateCode="AK" Zipcode="DILLINGHAM" CountyLimit="DILLINGHAM"/>
+	<Mapping StateCode="AK" Zipcode="BRISTOL BAY BOR" CountyLimit="BRISTOL BAY"/>
+	<Mapping StateCode="AK" Zipcode="NOME" CountyLimit="NOME"/>
+	<Mapping StateCode="AK" Zipcode="NORTH SLOPE" CountyLimit="NORTH SLOPE"/>
+	<Mapping StateCode="AK" Zipcode="HOONAH ANGOON" CountyLimit="HOONAH-ANGOON"/>
+	<Mapping StateCode="AK" Zipcode="HOONAH ANGOON" CountyLimit="HOONAH-ANGOON C"/>
+	<Mapping StateCode="AK" Zipcode="HAINES" CountyLimit="HAINES"/>
+	<Mapping StateCode="AK" Zipcode="PETERSBURG" CountyLimit="PETERSBURG CENS"/>
+	<Mapping StateCode="AK" Zipcode="PETERSBURG" CountyLimit="PETERSBURG"/>
+	<Mapping StateCode="AK" Zipcode="SITKA" CountyLimit="SITKA"/>
+	<Mapping StateCode="AK" Zipcode="KENAI PENINSULA" CountyLimit="KENAI PENINSULA"/>
+	<Mapping StateCode="AK" Zipcode="KUSILVAK CENSUS AREA" CountyLimit="KUSILVAK CENSUS AREA"/>
+</Mappings>

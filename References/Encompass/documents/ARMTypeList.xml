@@ -1,0 +1,141 @@
+<LIST>
+<ITEM id="GEN06"	desc="FM GENERIC, 6 MONTH"/>
+  <ITEM id="GEN1A"	desc="FM GENERIC, 1 YR, 1% ANNUAL Cap"/>
+  <ITEM id="GEN1B"	desc="FM GENERIC, 1 YR, 2% ANNUAL Cap"/>
+  <ITEM id="GEN3"	desc="FM GENERIC, 3 YR"/>
+  <ITEM id="GEN5"	desc="FM GENERIC, 5 YR"/>
+  <ITEM id="GEN7"	desc="FM GENERIC, 7 YR"/>
+  <ITEM id="GEN10"	desc="FM GENERIC, 10 YR"/>
+  <ITEM id="NGAM"	desc="FM GENERIC, NEGATIVE AMORTIZATION"/>
+  <ITEM id="346"	desc="6 Mo Treasury, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="746"	desc="6 Mo Treasury, 1/1/6 Caps, 30 Year Term"/>
+  <ITEM id="760"	desc="6 Mo COFI, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="761"	desc="6 Mo COFI, Convertible, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="1030"	desc="6 Mo CD, Convertible, 1/1/6 Caps, 30 Year Term"/>
+  <ITEM id="1031"	desc="6 Mo CD, 1/1/6 Caps, 30 year Term"/>
+  <ITEM id="1443"	desc="6 Mo LIBOR, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="1444"	desc="6 Mo LIBOR, Convertible, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="1445"	desc="6 Mo LIBOR, 1/1/6 Caps, 30 Year Term"/>
+  <ITEM id="1446"	desc="6 Mo LIBOR, Convertible, 1/1/6 Caps, 30 Year Term"/>
+  <ITEM id="57"		desc="1 Yr Treasury, Convertible, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="383"	desc="1 Yr Treasury, 1/1/4 Caps, 30 Year Term" />
+  <ITEM id="421"	desc="1 Yr Treasury, 2/2/4 Caps, 30 Year Term"/>
+  <ITEM id="510"	desc="1 Yr Treasury, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="511"	desc="1 Yr Treasury, Convertible, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="520"	desc="1 Yr Treasury, 2/2/5 Caps, 30 Year Term"/>
+  <ITEM id="521"   desc="1 Yr Treasury, Convertible, 2/2/5 Caps, 30 Year Term" /> 
+  <ITEM id="681"	desc="1 Yr COFI, 2/2/5 Caps, 30 Year Term"/>
+  <ITEM id="682"	desc="1 Yr COFI, 2/2/5 Caps, Convertible, 30 Year Term"/>
+  <ITEM id="710"	desc="1 Yr Treasury, 1/1/6 Caps, 30 Year Term"/>
+  <ITEM id="711"	desc="1 Yr Treasury, Convertible, 1/1/6 Caps, 30 Year Term" />
+  <ITEM id="714"	desc="1 Yr COFI, 1.5/1.5/5 Caps, 30 Year Term" />
+  <ITEM id="720"	desc="1 Yr Treasury, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="721"	desc="1 Yr Treasury, Convertible, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="722"	desc="1 Yr COFI, 1/1/5 Caps, 30 Year Term" />
+  <ITEM id="776"	desc="1 Yr Treasury, Convertible, 1/1/4 Caps, 30 Year Term" />
+  <ITEM id="791"	desc="1 Yr Treasury, Convertible, 2/2/4 Caps, 30 Year Term" />
+  <ITEM id="841"	desc="1 Yr Treasury, Convertible, 1/1/4 Caps, 30 Year Term" />
+  <ITEM id="851"	desc="1 Yr Treasury, Covertible, 1/1/5 Caps, 30 Year Term" />
+  <ITEM id="861"	desc="1 Yr Treasury, Convertible, 1/1/6 Caps, 30 Year Term" />
+  <ITEM id="651"	desc="3/1 Treasury, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="652"	desc="3/1 Treasury, Convertible, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="649"	desc="3/3 Treasury, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="650"	desc="3/3 Treasury, Convertible, 2/2/6 Caps, 30 Year Term" />
+  <ITEM id="1029"	desc="5/25 Two-Step Treasury, 6 Cap, 30 Year Term" />
+  <ITEM id="660"	desc="5/1 Treasury, 2/2/5 Caps, 30 Year Term" />
+  <ITEM id="661"	desc="5/1 Treasury, Convertible, 2/2/5 Caps, 30 Year Term" />
+  <ITEM id="3252"	desc="5/1 Hybrid LIBOR, 5/2/5 Caps, 30 Year Term" />
+  <ITEM id="975"	desc="7/23 Two-Step Treasury, 6 Cap, 30 Year Term" />
+  <ITEM id="750"	desc="7/1 Treasury, 5/2/5 Caps, 30 Year Term" />
+  <ITEM id="751"	desc="7/1 Treasury, Convertible, 5/2/5 Caps, 30 Year Term" />
+  <ITEM id="1423"	desc="10/1 Treasury, 5/2/5 Caps, 30 Year Term" />
+  <ITEM id="1437"	desc="10/1 Treasury, Convertible, 5/2/5 Caps, 30 Year Term" />
+  <ITEM id="251"	desc="FHA 1 Yr Treasury, 1/1/5 Caps, 30 Year Term" />	
+  <ITEM id="3513"	desc="3/1 Treasury, 2/2/6 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3514"	desc="3/1 LIBOR, 2/2/6 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3515"	desc="5/1 Treasury, 2/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3516"	desc="5/1 LIBOR, 2/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3504"	desc="5/1 Treasury, 5/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3505"	desc="5/1 LIBOR, 5/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3517"	desc="7/1 Treasury, 5/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3518"	desc="7/1 LIBOR, 5/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3225"	desc="10/1 LIBOR, 5/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="3228"	desc="10/1 Treasury, 5/2/5 Caps, 10 Year Interest Only, 30 Year Term" />
+  <ITEM id="!FNMA"	desc="LENDER ARM PLAN" />
+  <ITEM id="FHAHY"	desc="FHA Hybrid ARM" />
+  <ITEM id="VAARM"	desc="VA Hybrid ARM" />
+  <ITEM id="VA1YR"	desc="VA 1 YR ARM" />
+  <ITEM id="2236"	desc="3/1 Treasury, 2/2/6 Caps, 40 Year Term" />
+  <ITEM id="2238"	desc="5/1 Treasury, 2/2/6 Caps, 40 Year Term" />
+  <ITEM id="2699"	desc="5/1 Treasury, 5/2/5 Caps, 40 Year Term" />
+  <ITEM id="2704"	desc="7/1 Treasury, 5/2/5 Caps, 40 Year Term" />
+  <ITEM id="2703"	desc="10/1 Treasury, 5/2/5 Caps, 40 Year Term" />
+  <ITEM id="3130"	desc="3/1 LIBOR, 2/2/6 Caps, 40 Year Term" />
+  <ITEM id="3557"	desc="5/1 LIBOR, 2/2/6 Caps, 40 Year Term" />
+  <ITEM id="3128"	desc="5/1 LIBOR, 5/2/5 Caps, 40 Year Term" />
+  <ITEM id="3558"	desc="7/1 LIBOR, 5/2/5 Caps, 40 Year Term" />
+  <ITEM id="3559"	desc="10/1 LIBOR, 5/2/5 Caps, 40 Year Term" />
+
+  <!-- New generic ARM types -->
+  <ITEM id="6MLWSJ"  	desc="6 month LIBOR"/>
+  <ITEM id="1YLWSJ"  	desc="1 year LIBOR"/>
+  <ITEM id="1YCMT"  	desc="1 year Treasury"/>
+  <ITEM id="3YCMT"  	desc="3 year Treasury"/>
+  <ITEM id="6MLCWSJ"  	desc="6 month LIBOR Convertible"/>
+  <ITEM id="1YLCWSJ"  	desc="1 year Libor Convertible"/>
+  <ITEM id="1YCCMT"  	desc="1 year Treasury Convertible"/>
+  <ITEM id="3YCCMT"  	desc="3 year Treasury Convertible"/>
+  <ITEM id="6MLNCWSJ"  	desc="6 month LIBOR Non-Convertible"/>
+  <ITEM id="1YLNCWSJ"  	desc="1 year Libor Non-Convertible"/>
+  <ITEM id="1YNCCMT"  	desc="1 year Treasury Non-Convertible"/>
+  <ITEM id="3YNCCMT"  	desc="3 year Treasury Non-Convertible"/>
+  <ITEM id="31LWSJ"  	desc="3/1 LIBOR"/>
+  <ITEM id="51LWSJ"  	desc="5/1 LIBOR"/>
+  <ITEM id="71LWSJ"  	desc="7/1 LIBOR"/>
+  <ITEM id="101LWSJ"  	desc="10/1 LIBOR"/>
+  <ITEM id="31LNCWSJ"  	desc="3/1 LIBOR Non-Convertible"/>
+  <ITEM id="51LNCWSJ"  	desc="5/1 LIBOR Non-Convertible"/>
+  <ITEM id="71LNCWSJ"  	desc="7/1 LIBOR Non-Convertible"/>
+  <ITEM id="101LNCWSJ"  desc="10/1 LIBOR Non-Convertible"/>
+  <ITEM id="31CMT"  	desc="3/1 Treasury"/>
+  <ITEM id="51CMT"  	desc="5/1 Treasury"/>
+  <ITEM id="71CMT"  	desc="7/1 Treasury"/>
+  <ITEM id="101CMT"  	desc="10/1 Treasury"/>
+  <ITEM id="31LIOWSJ"  	desc="3/1 LIBOR Interest Only"/>
+  <ITEM id="51LIOWSJ"  	desc="5/1 LIBOR Interest Only"/>
+  <ITEM id="71LIOWSJ"  	desc="7/1 LIBOR Interest Only"/>
+  <ITEM id="101LIOWSJ"  desc="10/1 LIBOR Interest Only"/>
+  <ITEM id="31IOCMT"  	desc="3/1 Treasury Interest Only"/>
+  <ITEM id="51IOCMT"  	desc="5/1 Treasury Interest Only"/>
+  <ITEM id="71IOCMT"  	desc="7/1 Treasury Interest Only"/>
+  <ITEM id="101IOCMT"  	desc="10/1 Treasury Interest Only"/>
+  <ITEM id="6MWCD"  	desc="6 month Weekly CD"/>
+  <ITEM id="1YWCMT"  	desc="1 year Weekly CMT"/>
+  <ITEM id="1YWCCMT"  	desc="1 year Weekly CMT Convertible"/>
+  <ITEM id="3YWCMT"  	desc="3 year Weekly CMT"/>
+  <ITEM id="5YWCMT"  	desc="5 year Weekly CMT"/>
+  <ITEM id="10YWCMT"  	desc="10 year Weekly CMT"/>
+
+  <!-- New types we added on 7.5 -->
+  <ITEM id="1677"  	desc="5/1 Treasury, 5/2/5 Caps, 30 Year Term"/>
+  <ITEM id="2720"  	desc="1 Yr LIBOR, Convertable, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="2721"  	desc="1 Yr LIBOR, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="2722"  	desc="3/1 LIBOR, Convertable, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="2723"  	desc="3/1 LIBOR, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="2724"  	desc="5/1 LIBOR, Convertable, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="2725"  	desc="5/1 LIBOR, 2/2/5 Caps, 30 Year Term"/>
+  <ITEM id="2726"  	desc="7/1 LIBOR, Convertable, 5/2/5 Caps, 30 Year Term"/>
+  <ITEM id="2727"  	desc="7/1 LIBOR, 5/2/5 Caps, 30 Year Term"/>
+  <ITEM id="2728"  	desc="10/1 LIBOR, Convertable, 5/2/5 Caps, 30 Year Term"/>
+  <ITEM id="2729"  	desc="10/1 LIBOR, 5/2/5 Caps, 30 Year Term"/>
+  <ITEM id="2737"  	desc="5/1 LIBOR, 5/2/5 Caps, 30 Year Term"/>
+  <ITEM id="3549"  	desc="FHA 3/1 Treasury, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="3550"  	desc="FHA 5/1 Treasury, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="3551"  	desc="FHA 7/1 Treasury, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="3552"  	desc="FHA 10/1 Treasury, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="3640"  	desc="FHA 5/1 Treasury, 2/2/6 Caps, 30 Year Term"/>
+  <ITEM id="515"  	desc="FHA 1 YR Treasury, 1/1/5 Caps, 30 Year Term"/>
+  <ITEM id="659"  	desc="5/1 Treasury, 2/2/6 Caps, 30 Year Term"/>
+
+</LIST>
+
